@@ -1,0 +1,33 @@
+#dice1, #dice2 {
+	background-image: url('dice.png');
+	width: 100px;
+	height: 100px;
+	margin-right: 10px;
+	display: inline-block;
+}
+
+.face1 {}
+
+.face2 {
+	background-position: 500px 0px; 
+}
+
+.face3 {
+	background-position: 400px 0px; 
+}
+
+.face4 {
+	background-position: 300px 0px; 
+}
+
+.face5 {
+	background-position: 200px 0px; 
+}
+
+.face6 {
+	background-position: 100px 0px; 
+}
+
+.hidden {
+	display: none;
+}
